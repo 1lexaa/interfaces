@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/interfaces.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/interfaces.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/interfaces.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/interfaces/bin/Debug/net6.0/interfaces
+/Users/1lexaa/Documents/учеба/interfaces/bin/Debug/net6.0/interfaces.deps.json
+/Users/1lexaa/Documents/учеба/interfaces/bin/Debug/net6.0/interfaces.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/interfaces/bin/Debug/net6.0/interfaces.dll
+/Users/1lexaa/Documents/учеба/interfaces/bin/Debug/net6.0/ref/interfaces.dll
+/Users/1lexaa/Documents/учеба/interfaces/bin/Debug/net6.0/interfaces.pdb
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/interfaces.dll
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/ref/interfaces.dll
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/interfaces.pdb
+/Users/1lexaa/Documents/учеба/interfaces/obj/Debug/net6.0/interfaces.genruntimeconfig.cache
